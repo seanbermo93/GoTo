@@ -11,13 +11,13 @@ Build Tools,
 Folder Setup
 
 ### NodeJS
-Building
-Routing
-Axios
-Folder Setup
+Building,
+Routing,
+Axios,
+Folder Setup.
 
 ### Salesforce Lightning
-Course completed
-MVC
+Course completed,
+MVC.
 
 ### Java
