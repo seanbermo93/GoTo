@@ -1,13 +1,13 @@
 # GoTo
 ## Knowledge dump of past experience
 ### ReactJS
-Redux
-Redux-Saga
-DnD
-TypeScript
-Styling
-Interfaces
-Build Tools
+Redux,
+Redux-Saga,
+DnD,
+TypeScript,
+Styling,
+Interfaces,
+Build Tools,
 Folder Setup
 
 ### NodeJS
